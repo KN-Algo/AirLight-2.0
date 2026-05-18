@@ -17,8 +17,8 @@
 ### 🚀 Funkcjonalności
 * [Filmik wzorowany](https://youtube.com/watch?v=EiVi8AjG4OY&si=IRhJEz7_P2FXkZ8F) - film, na którym pierwiotny projekt był wzorowany.
 * [Rolka na Instagramie z podobnym pomysłem](https://www.instagram.com/reel/DP7IW_4jtsI/?igsh=MWV0a2RxODd6b2xwaA==) - rolka na Instagramie z tym samym pomysłem.
-* [Projekt z IR](https://github.com/user-attachments/files/27975735/Projekt.z.IR.pdf).
-* [Laser Mic - artykuł](https://github.com/user-attachments/files/27975734/Laser.Mic.pdf).
+* [Projekt z IR](https://github.com/user-attachments/files/27975735/Projekt.z.IR.pdf) - artykuł o podczerwieni.
+* [Laser Mic - artykuł](https://github.com/user-attachments/files/27975734/Laser.Mic.pdf) - artykuł z projektem podobnym, który chcemy zrealizować.
 
 
 ## 🛠 Technologie
